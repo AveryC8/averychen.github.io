@@ -1,5 +1,5 @@
 # averychen 
-<!DOCTYPE html>
+<!DOCTYPEhtml>
 <html>
   <body>
     <h1>Golden State Warriors</h1>
