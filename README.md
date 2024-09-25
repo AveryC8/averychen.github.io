@@ -29,6 +29,6 @@
       <li>NBA Clutch Player of the Year</li>
       <li>8x NBA 3-point scoring leader</li>
     </ul>
-<body style= "background:#bdeeff;">
+<body style= "background:#9fe3ff;">
   </body>
   </html>
