@@ -1,4 +1,5 @@
 <html>
+  <p>Avery Chen</p>
   <link rel="stylesheet" href="styles.css">
   <body>
     <h1>Golden State Warriors</h1>
@@ -20,6 +21,7 @@
       <li>2022</li>
     </ul>
     <h2>Steph Curry</h2>
+    <img src="https://phantom-marca.unidadeditorial.es/e2b426d6cd524af2136ded2d61b32f7c/crop/0x0/1978x1318/resize/660/f/webp/assets/multimedia/imagenes/2024/08/21/17242700992805.png">
     <p>Steph Curry was also on the 2024 US Olympic basketball team and made 4 three-pointers shots in the final few minutes to secure the gold team for Team USA. In the 23-24 season, he led the league with <strong>357</strong> 3-pointers. He played <strong>74</strong> games and also recorded his second <strong>60-point</strong> game against the Hawks on Feburary 3rd. </p>
     <ul>
       <li>2x NBA MVP</li>
