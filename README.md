@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-# averychen 
-
 <html>
   <body>
     <h1>Golden State Warriors</h1>
