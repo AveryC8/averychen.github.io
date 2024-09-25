@@ -1,5 +1,5 @@
 # averychen 
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html>
   <body>
     <h1>Golden State Warriors</h1>
@@ -29,6 +29,6 @@
       <li>NBA Clutch Player of the Year</li>
       <li>8x NBA 3-point scoring leader</li>
     </ul>
-<body style= "background:#9fe3ff;">
+<body style= "background:#d4f0fa;">
   </body>
   </html>
