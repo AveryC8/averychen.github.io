@@ -1,4 +1,5 @@
 <html>
+  <link rel="stylesheet" href="styles.css">
   <body>
     <h1>Golden State Warriors</h1>
     <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=200&w=200">
