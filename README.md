@@ -1,5 +1,6 @@
-# averychen 
 <!DOCTYPE html>
+# averychen 
+
 <html>
   <body>
     <h1>Golden State Warriors</h1>
@@ -31,4 +32,4 @@
     </ul>
 <body style= "background:#d4f0fa;">
   </body>
-  </html>
+</html>
