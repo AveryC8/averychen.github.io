@@ -1,6 +1,13 @@
 <html>
+  <head>
+    <style>
+      body {
+        background-color: #d4f0fa;
+        font-family: Arial, sans-serif;
+      }
+    </style>
+  </head>
   <body>
-    <body style= "background:d4f0fa;">
     <h1>Golden State Warriors</h1>
     <p>by Avery Chen</p>
     <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=200&w=200">
