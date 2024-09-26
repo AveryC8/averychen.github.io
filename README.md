@@ -1,5 +1,4 @@
 <html>
- <head>
   <style>
     body {
       font-family: Georgia, serif;
@@ -7,7 +6,6 @@
       background: #d4f0fa;
     }
   </style>
-</head>
   <body>
     <h1>Golden State Warriors</h1>
     <p>by Avery Chen</p>
