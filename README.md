@@ -1,5 +1,5 @@
 <html>
-  <body style= "background:#bdeeff;">
+  <body style= "background:#d4f0fa;">
   <body>
     <h1>Golden State Warriors</h1>
     <p>by Avery Chen</p>
@@ -31,4 +31,4 @@
       <li>NBA Clutch Player of the Year (2024) </li>
       <li>8x NBA 3-point scoring leader</li>
     </ul>
-</body>
+  </body>
