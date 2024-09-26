@@ -30,11 +30,9 @@
       <li>NBA Clutch Player of the Year (2024) </li>
       <li>8x NBA 3-point scoring leader</li>
     </ul>
-      <style>
-    body {
+  <style>
       font-family: Georgia, serif;
       font-size: 15px;
       background: #d4f0fa;
-    }
   </style>
-  </body>
+</body>
