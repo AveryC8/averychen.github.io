@@ -1,12 +1,5 @@
 <html>
-  <head>
-    <style>
-      body {
-        background-color: #d4f0fa;
-        font-family: Arial, sans-serif;
-      }
-    </style>
-  </head>
+  <body style= "background:#bdeeff;">
   <body>
     <h1>Golden State Warriors</h1>
     <p>by Avery Chen</p>
