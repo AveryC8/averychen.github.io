@@ -1,5 +1,13 @@
 <html>
+<head>
   <link rel="stylesheet" href="styles.css">
+  <style>
+   body {
+     background: #d4f0fa;
+     font-family: Georgia, serif;
+    }
+  </style>
+</head>
   <body>
     <h1>Golden State Warriors</h1>
     <p>Avery Chen</p>
