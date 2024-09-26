@@ -27,8 +27,8 @@
     <ul>
       <li>2x NBA MVP</li>
       <li>10x NBA All-Star</li>
-      <li>NBA All-Star Game MVP</li>
-      <li>NBA Clutch Player of the Year</li>
+      <li>NBA All-Star Game MVP (2022) </li>
+      <li>NBA Clutch Player of the Year (2024) </li>
       <li>8x NBA 3-point scoring leader</li>
     </ul>
 <body style= "background:#d4f0fa;">
